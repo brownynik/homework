@@ -1,0 +1,7 @@
+C:\Users\Browny\source\repos\task-manager\obj\Debug\task-manager.csproj.AssemblyReference.cache
+C:\Users\Browny\source\repos\task-manager\obj\Debug\task-manager.csproj.CoreCompileInputs.cache
+C:\Users\Browny\source\repos\task-manager\bin\Debug\task-manager.exe.config
+C:\Users\Browny\source\repos\task-manager\bin\Debug\task-manager.exe
+C:\Users\Browny\source\repos\task-manager\bin\Debug\task-manager.pdb
+C:\Users\Browny\source\repos\task-manager\obj\Debug\task-manager.exe
+C:\Users\Browny\source\repos\task-manager\obj\Debug\task-manager.pdb
